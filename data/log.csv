@@ -1,0 +1,49 @@
+timestamp,id_tanaman,aksi,keterangan
+2025-12-11T12:51:38.462423,T001,create,Tambah tanaman gt
+2025-12-11T12:52:13.871104,T001,update,"{'nama_tanaman': 'gt', 'frekuensi_siram': 'g', 'jenis_pupuk': 'gb', 'tanggal_siram_terakhir': '2025-12-11', 'catatan': 'nan'}"
+2025-12-11T12:52:16.702140,T001,delete,Hapus T001
+2025-12-11T13:27:10.377615,T001,create,Tambah tanaman Bayam Hijau
+2025-12-11T13:27:17.903305,T002,create,Tambah tanaman Bayam Hijau
+2025-12-11T13:31:40.345384,T001,delete,Hapus T001
+2025-12-11T13:32:02.401022,T002,delete,Hapus T002
+2025-12-11T13:33:47.125026,T001,create,Tambah tanaman Bayam hijau
+2025-12-11T13:34:50.152224,T001,update,"{'nama_tanaman': 'Bayam hijau', 'frekuensi_siram': '2 kali sehari', 'jenis_pupuk': 'Pupuk kandang / kompos', 'tanggal_siram_terakhir': '2025-12-10', 'catatan': 'Cepat layu kalau panas, letakkan di tempat teduh'}"
+2025-12-11T13:35:45.695066,T002,create,Tambah tanaman Kangkung
+2025-12-11T13:38:01.693890,T003,create,Tambah tanaman Sawi putih
+2025-12-11T13:39:57.995534,T004,create,Tambah tanaman Tomat
+2025-12-11T13:40:44.633031,T004,update,"{'nama_tanaman': 'Tomat', 'frekuensi_siram': '2 hari sekali', 'jenis_pupuk': 'Pupuk kandang / kompos', 'tanggal_siram_terakhir': '2025-12-11', 'catatan': 'Jangan terlalu sering disiram air agar tidak busuk akar'}"
+2025-12-11T13:42:28.368737,T005,create,Tambah tanaman Cabai rawit
+2025-12-11T13:54:13.905165,T006,create,Tambah tanaman Selada
+2025-12-11T13:55:17.926823,T007,create,Tambah tanaman Bawang merah
+2025-12-11T13:56:28.669880,T008,create,Tambah tanaman Timun
+2025-12-11T14:07:23.263791,T001,note,Disiram via UI
+2025-12-11T14:08:24.379339,T001,note,Disiram via UI
+2025-12-11T14:08:55.910527,T001,update,"{'nama_tanaman': 'Bayam hijau', 'frekuensi_siram': '2 kali sehari', 'jenis_pupuk': 'Pupuk kandang / kompos', 'tanggal_siram_terakhir': '2025-12-11', 'catatan': 'Cepat layu kalau panas, letakkan di tempat teduh '}"
+2025-12-11T14:38:31.161511,T001,delete,Hapus T001
+2025-12-11T14:38:45.701444,T002,delete,Hapus T002
+2025-12-11T14:39:29.872898,T003,delete,Hapus T003
+2025-12-11T14:39:35.463396,T004,delete,Hapus T004
+2025-12-11T14:39:40.565151,T005,delete,Hapus T005
+2025-12-11T14:39:45.248507,T006,delete,Hapus T006
+2025-12-11T14:39:56.935939,T007,delete,Hapus T007
+2025-12-11T14:40:03.638623,T008,delete,Hapus T008
+2025-12-11T14:42:40.958828,T001,create,Tambah tanaman Lidah Mertua
+2025-12-11T14:44:20.411715,T002,create,Tambah tanaman Sirih Gading
+2025-12-11T14:45:39.938405,T003,create,Tambah tanaman Kaktus Mini
+2025-12-11T14:47:08.563843,T004,create,Tambah tanaman Aglonema
+2025-12-11T14:48:05.931802,T003,update,"{'nama_tanaman': 'Kaktus Mini', 'frekuensi_siram': '2 minggu sekali', 'jenis_pupuk': 'Pupuk Kaktus Khusus', 'tanggal_siram_terakhir': '2025-12-01', 'catatan': 'Jangan terlalu sering di siram'}"
+2025-12-11T14:52:54.605554,T005,create,Tambah tanaman Anggrek
+2025-12-11T14:54:08.141662,T006,create,Tambah tanaman Janda Bolong
+2025-12-11T14:55:30.804223,T007,create,Tambah tanaman Monstera
+2025-12-11T14:56:57.419484,T008,create,Tambah tanaman Begonia
+2025-12-15T13:18:14.876844,T009,create,Tambah tanaman sawi
+2025-12-15T13:19:03.911381,T009,delete,Hapus T009
+2025-12-15T13:19:43.375082,T009,create,Tambah tanaman sawi
+2025-12-15T13:20:22.837096,T009,delete,Hapus T009
+2025-12-15T13:21:49.311709,T009,create,Tambah tanaman sawi
+2025-12-15T13:22:12.259818,T009,update,"{'nama_tanaman': 'sawi', 'frekuensi_siram': 'nan', 'jenis_pupuk': 'nan', 'tanggal_siram_terakhir': '2025-12-15', 'catatan': 'nan'}"
+2025-12-15T13:22:19.442959,T009,delete,Hapus T009
+2025-12-29 12:39:23,T009,CREATE,Tambah tanaman mawar
+2025-12-29 12:39:52,T009,DELETE,Hapus data T009
+2025-12-29 12:40:39,T008,UPDATE,Update data tanaman
+2025-12-29 12:41:32,T008,UPDATE,Update data tanaman

@@ -1,0 +1,9 @@
+id_tanaman,nama_tanaman,frekuensi_siram,jenis_pupuk,tanggal_siram_terakhir,catatan
+T001,Lidah Mertua,1 minggu sekali,Pupuk  Kompos / Pupuk Organik,2025-12-10,"Tahan panas, tidak perlu banyak air"
+T002,Sirih Gading,2 hari sekali,Pupuk Cair Organik,2025-12-11,"Cocok di indoor, cepat tumbuh"
+T003,Kaktus Mini,2 minggu sekali,Pupuk Kaktus Khusus,2025-12-01,Jangan terlalu sering di siram
+T004,Aglonema,2 hari sekali,Pupuk NPK,2025-12-12,Suka ruangan lembab
+T005,Anggrek,1 minggu sekali,Pupuk NPK,2025-12-01,Letakkan di tempat yang redup
+T006,Janda Bolong,3 hari sekali,Pupuk NPK,2025-12-08,Suka cahaya tidak langsung
+T007,Monstera,3 hari sekali,Pupuk NPK,2025-12-08,Pindah pot 1 bulan lalu
+T008,Begonia,4 hari sekali,Pupuk Organik,2025-12-08,Hati-hati saat penyiraman
