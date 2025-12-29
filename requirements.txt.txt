@@ -1,0 +1,8 @@
+Daftar library dari sistem catatan perawatan tanaman hias:
+1.streamlit
+2.pandas
+3.opencv-python-headless
+4.numpy
+5.Pillow
+6.plotly
+7.qrcode
