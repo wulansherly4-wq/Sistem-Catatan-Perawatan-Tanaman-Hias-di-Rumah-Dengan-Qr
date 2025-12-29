@@ -142,19 +142,6 @@ Fitur ini memenuhi Pengujian Visualisasi Data – Log Harian.
 
 ---
 
-👥 Pembagian Tugas (Jika Dikerjakan Tim)
-
-
-| Nama Anggota | Tugas                          |
-| ------------ | ------------------------------ |
-| Anggota 1    | Perancangan sistem & flowchart |
-| Anggota 2    | Implementasi CRUD & CSV        |
-| Anggota 3    | QR Code & Scan Kamera          |
-| Anggota 4    | Visualisasi data & laporan     |
-| Anggota 5    | Dokumentasi & README           |
-
----
-
 ℹ️ Catatan Tambahan
 
 * Aplikasi berjalan tanpa koneksi internet
